@@ -1,6 +1,6 @@
-package section3.lesson1;
+package section3;
 
-public class Example1 {
+public class PrimitiveDataTypes {
     public static void main(String[] args) {
         // byte can store a number between -128 and 127
         byte age = 25;

@@ -2,7 +2,7 @@ package section3;
 
 import java.util.Scanner;
 
-public class loops {
+public class Loops {
     public static void main(String[] args) {
 //        for loop
         int b = 10;

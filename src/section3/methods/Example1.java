@@ -1,6 +1,6 @@
 package section3.methods;
 
-public class Methods {
+public class Example1 {
     public static void main(String[] args) {
         double radius = 5;
         double circleArea = calculateCircleArea(radius);
